@@ -1,3 +1,3 @@
 a novetus masterserver
 
-get novetus here: bitl.itch.io/novetus
+get novetus here: https://bitl.itch.io/novetus
